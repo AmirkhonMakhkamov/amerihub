@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "542274328975",
+    "project_id": "amerihub",
+    "storage_bucket": "amerihub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542274328975:android:550c0fff0aaa7eca0ed3fa",
+        "android_client_info": {
+          "package_name": "com.amerihub.aio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542274328975-25fjh2o7v0bphs4vv778o5pg7iev2ice.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amerihub.aio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCImMn5bLCD8gx4u3qe_7-c0qFKM8_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542274328975-350n7o6chld9olrp9166i5jguvtco771.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amerihub.app.synergy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542274328975:android:9d235eef2ebea6830ed3fa",
+        "android_client_info": {
+          "package_name": "com.amerihub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542274328975-1cdbjil05hitr1e7m9eqqshbhr6d2met.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amerihub.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCImMn5bLCD8gx4u3qe_7-c0qFKM8_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542274328975-350n7o6chld9olrp9166i5jguvtco771.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amerihub.app.synergy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542274328975:android:f31be44607f1a6b00ed3fa",
+        "android_client_info": {
+          "package_name": "com.amerihub.app.synergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542274328975-tn1g0415hhr6g1f4gu0janqaqd9qtth5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amerihub.app.synergy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCImMn5bLCD8gx4u3qe_7-c0qFKM8_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542274328975-350n7o6chld9olrp9166i5jguvtco771.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amerihub.app.synergy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542274328975:android:91774ab41dc264e10ed3fa",
+        "android_client_info": {
+          "package_name": "com.neomart.aio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542274328975-56ds1dac1qmsh5e2u7rp9uri1sc0srm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neomart.aio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKCImMn5bLCD8gx4u3qe_7-c0qFKM8_3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542274328975-fgb1vrrpem44gpdumrre23qpbtbcp8c1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542274328975-350n7o6chld9olrp9166i5jguvtco771.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amerihub.app.synergy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
